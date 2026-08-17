@@ -6,6 +6,7 @@ Playbook устанавливает и настраивает:
 - **LightHouse** — веб-интерфейс для ClickHouse (через Nginx)
 
 ## Структура репозитория
+
 playbook/
 ├── site.yml              # Основной playbook
 ├── inventory/
