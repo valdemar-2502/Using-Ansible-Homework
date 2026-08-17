@@ -37,7 +37,9 @@
 ---
 9. Подготовьте README.md-файл по своему playbook. В нём должно быть описано: что делает playbook, какие у него есть параметры и теги.
 ---
+[README-2.md](https://github.com/valdemar-2502/Using-Ansible-Homework/blob/main/README-2.md)
 
+---
 10. Готовый playbook выложите в свой репозиторий, поставьте тег `08-ansible-03-yandex` на фиксирующий коммит, в ответ предоставьте ссылку на него.
 ---
 [playbook](https://github.com/valdemar-2502/Using-Ansible-Homework/tree/main/playbook)
